@@ -1,0 +1,10 @@
+
+These 2 commands help me with setting dark mode in finder
+defaults delete -g NSRequiresAquaSystemAppearance
+
+
+defaults delete com.apple.finder; killall Finder
+
+
+
+

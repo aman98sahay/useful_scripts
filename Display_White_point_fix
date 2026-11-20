@@ -1,5 +1,5 @@
 
-Create a Custom Color Profile (Built-in Method)
+Create a Custom Color Profile (Built-in Method) (For MacOS)
 
 You can manually lower your screen's white point using the hidden Display Calibrator Assistant:
 1. Open System Settings > Displays.
@@ -8,3 +8,6 @@ You can manually lower your screen's white point using the hidden Display Calibr
 4. Click Continue through the intro screens until you reach Target White Point.
 5. Uncheck Use native white point and drag the slider to the left (around D50 gives a much softer, paper-like white instead of harsh daylight).
 6. Name and save your profile—you can switch back to the default profile anytime from the Displays menu.
+
+
+for Windows Warm Dimmer github open source application can be used to achieve something close to d50 on mac, and make it comfortable for the eyes.
